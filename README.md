@@ -28,7 +28,7 @@
 
 ### Запуск тестов
 
-1) Клонировать репозиторий командой `git clone ССЫЛКА НА РЕПО` ;
+1) Клонировать репозиторий командой `git clone https://github.com/Irina-Kalmykova/diploma` ;
 2) Открыть проект в IntelliJ IDEA;
 3) Создать контейнеры в скопированном проекте `docker-compose up --build -d` .
 
