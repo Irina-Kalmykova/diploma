@@ -21,7 +21,8 @@
 * 8 не успешных – 22.22 % от общего процента кейсов
   
  ![image](https://github.com/user-attachments/assets/9f783851-aa3a-442c-adec-aa329c1e87b3)
-* 
+
+
 ![image](https://github.com/user-attachments/assets/e62177b7-2e18-406c-8e5e-a599d3c43608)
 
 ![image](https://github.com/user-attachments/assets/9886b6ed-b32c-4aee-a8e9-e766ae7c0ef4)
